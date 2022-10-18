@@ -1,0 +1,37 @@
+{
+  "collapse-filter": false,
+  "search": "- file:\"Hướng dẫn sử dụng\" -path:\"Ξ Meta 0\" -path:\"Tài liệu\" -path:\"1 Nhu cầu/Đã xong\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"2 Thực thể/Cá nhân\"",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"2 Thực thể/Tổ chức\"",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.9,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 7.99660441426146,
+  "linkStrength": 0.382852292020374,
+  "linkDistance": 250,
+  "scale": 0.20558433128974876,
+  "close": true
+}
