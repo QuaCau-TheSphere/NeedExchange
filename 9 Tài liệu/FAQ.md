@@ -11,6 +11,12 @@ Chú thích: Cái đầu là nhu cầu, cái sau là thông tin nhận dạng. V
 | Dùng vault riêng cho nhóm hoặc vault cá nhân | ❌❌               | ✔️✔️          |
 | Trao đổi trực tiếp mà không lưu lại           | ❌❌               | ✔️✔️          |
 
+| Tính năng -><br>Tên gọi      | Thành viên được truy cập |
+| ---------------------------- | ------------------------ |
+| Spherenet                    |                          |
+| Liên minh, mạng lưới đối tác |                          |
+| CRM                             |                          |
+
 Đó là do chưa tạo được môi trường an toàn để nói ra. 
 
 Sau này mình sẽ có chuyên gia về bảo mật thông tin. Obsidian cũng được dùng. OINST
