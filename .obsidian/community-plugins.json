@@ -25,5 +25,18 @@
   "table-editor-obsidian",
   "tag-wrangler",
   "templater-obsidian",
-  "obsidian-git"
+  "obsidian-git",
+  "cm-editor-syntax-highlight-obsidian",
+  "folder-note-plugin",
+  "obsidian-journey-plugin",
+  "multi-column-markdown",
+  "quickadd",
+  "obsidian-quickshare",
+  "various-complements",
+  "obsidian-version-history-diff",
+  "copy-url-in-preview",
+  "obsidian-auto-link-title",
+  "cycle-through-panes",
+  "note-aliases",
+  "obsidian-mkdocs-publisher"
 ]

@@ -11,7 +11,7 @@
 - #tôngiáo
 
 ## Phân loại theo bản chất
-![[Các nhu cầu - solid.png]]
+![[Các nhu cầu - solid.svg]]
 ## Phân loại theo trạng thái
 1. Chưa tìm được ai có cùng nhu cầu
 2. Đã tìm được người có cùng nhu cầu, nhưng các bên chưa bàn bạc với nhau

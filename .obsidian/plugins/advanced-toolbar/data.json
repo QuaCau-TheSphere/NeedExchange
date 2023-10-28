@@ -7,16 +7,8 @@
   "alwaysShowToolbar": true,
   "mappedIcons": [
     {
-      "commandID": "templater-obsidian:insert-templater",
-      "iconID": "feather-menu"
-    },
-    {
       "commandID": "obsidian-editor-shortcuts:duplicateLine",
       "iconID": "feather-plus"
-    },
-    {
-      "commandID": "obsidian-editor-shortcuts:deleteLine",
-      "iconID": "feather-minus"
     }
   ],
   "debugging": false,

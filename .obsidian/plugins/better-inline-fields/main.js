@@ -2270,15 +2270,19 @@ var BetterInlineFieldsSettingTab = class extends import_obsidian3.PluginSettingT
       });
     });
     this.plugin.settings.autocomplete.forEach((autocomplete, index) => {
-      const setting = new import_obsidian3.Setting(containerEl).addText((text) => text.setPlaceholder("Inline field name").setValue(autocomplete.field).onChange((newValue) => {
-        this.plugin.settings.autocomplete[index].field = newValue;
-        this.plugin.saveSettings();
-      })).addSearch((search) => {
+      const setting = new import_obsidian3.Setting(containerEl).addText((text) => {
+        text.setPlaceholder("Inline field name").setValue(autocomplete.field).onChange((newValue) => {
+          this.plugin.settings.autocomplete[index].field = newValue;
+          this.plugin.saveSettings();
+        });
+        text.inputEl.addClass("better_inline_fields_setting");
+      }).addSearch((search) => {
         new FolderSuggest(this.app, search.inputEl);
         search.setPlaceholder("Folder").setValue(autocomplete.folder).onChange((newValue) => {
           this.plugin.settings.autocomplete[index].folder = newValue;
           this.plugin.saveSettings();
         });
+        search.containerEl.addClass("better_inline_fields_setting");
       }).addExtraButton((button) => {
         button.setIcon("cross").setTooltip("Delete").onClick(() => {
           this.plugin.settings.autocomplete.splice(index, 1);
@@ -2295,7 +2299,7 @@ var BetterInlineFieldsSettingTab = class extends import_obsidian3.PluginSettingT
 var import_obsidian4 = __toModule(require("obsidian"));
 var import_obsidian_dataview = __toModule(require_lib());
 var SEPARATOR = ";-;";
-var fieldValueRegexp = /(?:\[\[.*]])*,*\s*(.*)/;
+var fieldValueRegexp = /(\[\[.*]],?\s??)+(.*)/;
 var PagesEditSuggest = class extends import_obsidian4.EditorSuggest {
   constructor(app, plugin) {
     super(app);
@@ -2311,14 +2315,17 @@ var PagesEditSuggest = class extends import_obsidian4.EditorSuggest {
     const fields = this.plugin.settings.autocomplete.map((autocomplete) => autocomplete.field);
     for (const field of fields) {
       let fieldText = `${field}:: `;
-      if (!editor.getRange({ line: cursor.line, ch: 0 }, cursor).startsWith(fieldText)) {
+      const text = editor.getRange({ line: cursor.line, ch: 0 }, cursor);
+      let startIndex = text.indexOf(fieldText);
+      if (startIndex < 0) {
         fieldText = fieldText.slice(0, -1);
-        if (!editor.getRange({ line: cursor.line, ch: 0 }, cursor).startsWith(fieldText))
+        startIndex = text.indexOf(fieldText);
+        if (startIndex < 0)
           continue;
       }
       const startPos = {
         line: cursor.line,
-        ch: fieldText.length
+        ch: startIndex + fieldText.length
       };
       const fieldValue = editor.getRange(startPos, cursor);
       return {
@@ -2340,14 +2347,15 @@ var PagesEditSuggest = class extends import_obsidian4.EditorSuggest {
     let query, startIndex;
     if (fieldValue.contains("[[")) {
       const match = fieldValue.match(fieldValueRegexp);
-      if (!match || match.length < 2)
+      if (!match || match.length < 3)
         return [];
-      query = match[1];
-      const withSpaceIndex = fieldValue.indexOf(`, ${query}`);
+      const preQuery = match[1].length;
+      query = match[2].trim();
+      const withSpaceIndex = preQuery + fieldValue.slice(preQuery).indexOf(` ${query}`);
       if (withSpaceIndex) {
-        startIndex = withSpaceIndex + 2;
+        startIndex = withSpaceIndex + 1;
       } else {
-        const withoutSpaceIndex = fieldValue.indexOf(`,${query}`);
+        const withoutSpaceIndex = preQuery + fieldValue.slice(preQuery).indexOf(`${query}`);
         if (withoutSpaceIndex) {
           startIndex = withSpaceIndex - 1;
         } else {
@@ -2368,11 +2376,16 @@ var PagesEditSuggest = class extends import_obsidian4.EditorSuggest {
       page.file.aliases.forEach((alias) => labels.push(`${page.file.name}|${alias}`));
     });
     const allSuggestions = labels.filter((label) => {
+      let sourceText;
+      let queryObject;
       if (query.startsWith(this.plugin.settings.regexpTrigger)) {
-        return label.match(new RegExp(query.slice(1)));
+        sourceText = label;
+        queryObject = new RegExp(query.slice(1));
       } else {
-        return label.toLowerCase().normalize().includes(query.toLowerCase());
+        sourceText = label.toLowerCase().normalize();
+        queryObject = query.toLowerCase();
       }
+      return sourceText.match(queryObject);
     }).map((label) => ({
       query,
       label,

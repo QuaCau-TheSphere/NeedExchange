@@ -4,4 +4,4 @@
 [[Mở triễn lãm tranh theo chủ đề]]
 [[Mở trung tâm giáo dục cải tiến ở quê]]
 [[Làm 1 quán bar bên bờ biển ở quê]]
-[[Làm một khu phức hợp  eco-resort ở quê ngoài Bắc]]
+[[Làm một khu phức hợp eco-resort ở quê ngoài Bắc]]

@@ -3,7 +3,6 @@
 [[Tổ chức sự kiện ở Phước Bình]]
 [[Xây dựng tổ chức mà người tham gia không cần tham gia vì trách nhiệm]]
 [[Xây dựng nhóm nghiên cứu liên ngành]] 
-[[Xây dựng trang hỏi đáp liên lĩnh vực]] 
 [[Gây quỹ]] 
 [[Xây dựng nhóm hỗ trợ cho người tự học quản lý dự án hoặc lập trình]] 
 [[Cộng đồng phát triển]] 

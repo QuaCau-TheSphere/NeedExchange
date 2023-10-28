@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "- file:\"Hướng dẫn sử dụng\" -path:\"Ξ Meta 0\" -path:\"Tài liệu\" -path:\"1 Nhu cầu/Đã xong\"",
+  "search": "path:\"1 Nhu cầu\" OR path:\"2 Thực thể\"",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -24,14 +24,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0.9,
+  "textFadeMultiplier": -0.1,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 7.99660441426146,
-  "linkStrength": 0.382852292020374,
+  "linkStrength": 0.919642857142857,
   "linkDistance": 250,
-  "scale": 0.20558433128974876,
+  "scale": 0.5305568906314986,
   "close": true
 }

@@ -7,6 +7,23 @@
     {
       "field": "Đã được giải quyết bởi",
       "folder": "2 Thực thể"
+    },
+    {
+      "field": "Thành phẩm",
+      "folder": "8 Kế hoạch/5 Thành phẩm"
+    },
+    {
+      "field": "Thành quả cần có",
+      "folder": "8 Kế hoạch/3 Thành quả mong muốn"
+    },
+    {
+      "field": "Thành quả hỗ trợ",
+      "folder": "8 Kế hoạch/3 Thành quả mong muốn"
+    },
+    {
+      "field": "",
+      "folder": ""
     }
-  ]
+  ],
+  "regexpTrigger": "/"
 }

@@ -1,0 +1,1 @@
+Biết được cộng đồng đang có những nhu cầu gì, những nhu cầu nào có nhiều người quan tâm, v.v.

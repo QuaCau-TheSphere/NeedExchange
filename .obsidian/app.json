@@ -32,9 +32,12 @@
   "tabSize": 4,
   "showUnsupportedFiles": false,
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "spellcheckLanguages": null,
+  "newFileLocation": "current"
 }
