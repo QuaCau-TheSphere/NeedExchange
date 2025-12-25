@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "path:\"1 Nhu cầu\" OR path:\"2 Thực thể\"",
+  "search": "path:\"1 Nhu cầu\" OR path:\"2 Thực thể\"  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -8,14 +8,14 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"2 Thực thể/Cá nhân\"",
+      "query": "path:\"2 Thực thể/Cá nhân\"  ",
       "color": {
         "a": 1,
         "rgb": 14048348
       }
     },
     {
-      "query": "path:\"2 Thực thể/Tổ chức\"",
+      "query": "path:\"2 Thực thể/Tổ chức\"  ",
       "color": {
         "a": 1,
         "rgb": 14069084
@@ -24,14 +24,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": 0.2,
+  "nodeSizeMultiplier": 1.10753318925594,
+  "lineSizeMultiplier": 0.44913258983891,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 7.99660441426146,
-  "linkStrength": 0.919642857142857,
-  "linkDistance": 250,
-  "scale": 0.5305568906314986,
+  "centerStrength": 0.608706390861377,
+  "repelStrength": 12.1741278172275,
+  "linkStrength": 1,
+  "linkDistance": 141,
+  "scale": 0.23890348375126708,
   "close": true
 }

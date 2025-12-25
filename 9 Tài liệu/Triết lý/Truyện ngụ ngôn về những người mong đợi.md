@@ -1,3 +1,7 @@
+---
+created: 2023-10-28T14:39
+updated: 2025-12-25T10:31
+---
 _[NHAPMONQUACAU](https://www.facebook.com/hashtag/nhapmonquacau?__eep__=6&__gid__=187451366541621&__cft__[0]=AZXbDnCxcZuGJc\-7Tf1rT2FNb1Miu3d1s3hXt2b8qmjn7NMoxEBTUBSOQ7GfojHS5cMoXDWaT_bXq8UU6JXQh9IL_dFkZ7kPmTZIWTpYz31Ac01b2zzip7xV8oKGftTNwrg6lYp7g2GaPCpQMQHGtyQQJAExZffDD4a8_5eZIbPW\-zgBjaap5twSoT6XAU3uVms&__tn__=\-U\-UK\-R) [KHONGVIDIEUGICA](https://www.facebook.com/hashtag/khongvidieugica?__eep__=6&__gid__=187451366541621&__cft__[0]=AZXbDnCxcZuGJc\-7Tf1rT2FNb1Miu3d1s3hXt2b8qmjn7NMoxEBTUBSOQ7GfojHS5cMoXDWaT_bXq8UU6JXQh9IL_dFkZ7kPmTZIWTpYz31Ac01b2zzip7xV8oKGftTNwrg6lYp7g2GaPCpQMQHGtyQQJAExZffDD4a8_5eZIbPW\-zgBjaap5twSoT6XAU3uVms&__tn__=\-U\-UK\-R)_
 
 Ngày xửa ngày xưa, có một căn chòi nằm giữa khu rừng. Thường trực trong căn chòi đó là một vị thiền sư trẻ tuổi nhưng có tiếng trong vùng. Một số người thường tìm đến đây để xin sự chữa lành.

@@ -1,8 +1,12 @@
+---
+created: 2023-10-28T14:39
+updated: 2025-12-25T10:31
+---
 ĐÃ THẤT BẠI TRONG NỖ LỰC HACK SPOTIFY 
 TÌM KIẾM SỰ THÚ VỊ:
 # Nhu cầu hiện tại của tôi
 [[Được người khác bao ăn]] 
-[[Kiếm việc]] 
+[[Có công việc ổn định]] 
 [[Biết và không biết mình biết và không biết]]
 [[Tồn tại ở những thực tế khác nhau]]
 [[Ăn ngon]]

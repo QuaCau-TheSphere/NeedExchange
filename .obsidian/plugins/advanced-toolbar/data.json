@@ -1,17 +1,13 @@
 {
   "rowHeight": 48,
-  "rowCount": 2,
+  "rowCount": 1,
   "spacing": 0,
   "buttonWidth": 48,
-  "columnLayout": false,
+  "columnLayout": true,
   "alwaysShowToolbar": true,
-  "mappedIcons": [
-    {
-      "commandID": "obsidian-editor-shortcuts:duplicateLine",
-      "iconID": "feather-plus"
-    }
-  ],
-  "debugging": false,
+  "mappedIcons": [],
   "allowStylingOfAllActions": false,
-  "tooltips": true
+  "tooltips": false,
+  "heightOffset": 25,
+  "debugging": false
 }

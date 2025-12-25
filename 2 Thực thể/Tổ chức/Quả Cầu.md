@@ -1,3 +1,7 @@
+---
+created: 2022-10-07T01:57
+updated: 2025-12-25T10:31
+---
 [[Hoàn thiện tính năng của Obsidian]] 
 [[Mọi người dành thời gian để làm vault]] 
 [[Tổ chức sự kiện ở Phước Bình]]
@@ -8,8 +12,8 @@
 [[Cộng đồng phát triển]] 
 [[Có TNV lập trình]] 
 [[Vá lại các lỗ hổng trong kiến thức của mình]] 
-[[Xoá bỏ sự mỉa mai, thù ghét]] 
-[[Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]] 
+[[Xóa bỏ sự mỉa mai, thù ghét, tấn công cá nhân]] 
+[[3 Sản phẩm/Tạo môi trường để những người thù ghét người khác muốn trò chuyện với người họ thù ghét]] 
 [[Xây dựng mạng lưới người thân, bạn bè của người có niềm tin tiêu cực]] 
 [[Thu hút được sự đóng góp, lan toả chủ động của người có chuyên môn]]
 [[Thêm tính năng cho vault kết nối nhu cầu]]

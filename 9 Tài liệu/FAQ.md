@@ -1,4 +1,8 @@
-> [!Tip] Mẹo
+---
+created: 2023-10-28T14:39
+updated: 2025-12-25T10:31
+---
+g> [!Tip] Mẹo
 > Bấm <kbd>Alt + O</kbd> để hiển thị mục lục
 # FAQ
 ## Có những nhu cầu không muốn người khác biết mình có
@@ -37,7 +41,7 @@ Mình sẽ nói là nơi đây là để mọi người cùng hỗ trợ nhau gi
 ## Những vấn đề lớn mà khi mổ xẻ thì sẽ thấy khác biệt lắm
 Hiện tại cứ lưu giữ những vấn đề đó 
 Những nhu cầu hiện tại là tên của một nhóm nhu cầu. Trong mỗi nhóm nhu cầu, với từng cá nhân khác nhau, những nhu cầu sẽ được phân tích khác nhau
-
+Kể cả khi không đáp ứng nhu cầu cho nhau được (ví dụ như mua nhà) thì cũng có thể giới thiệu cho nhau thông tin của mình, và người kia cũng sẽ thấy đáng tin hơn là ở nơi khác
 ## Các nhu cầu thay đổi thường xuyên
 Vậy trước mắt mình sẽ tập trung vào những nhu cầu không thay đổi thường xuyên
 

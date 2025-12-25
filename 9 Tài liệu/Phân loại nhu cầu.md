@@ -1,4 +1,9 @@
+---
+created: 2022-10-07T01:57
+updated: 2025-12-25T10:31
+---
 # Các kiểu phân loại
+cơ bản nhu cầu là thứ mà mình thấy còn thiếu hụt. Nếu thiếu nó thì mình ko thấy bản thân mình đc ở trạng thái wellbeing. Có nhiều
 ## Phân loại theo lĩnh vực trong đời sống
 - #kinhtế
 - #sứckhoẻ

@@ -1,5 +1,9 @@
+---
+created: 2022-10-07T01:57
+updated: 2025-12-25T10:31
+---
 [[Xem phim]]
-[[Không phải lo nghĩ về chuyện ăn uống]]
+[[Không phải lo nghĩ về chuyện kiếm tiền để sống]]
 [[Ăn ngon]] 
 [[Mặc đẹp]]
 [[đi chơi hông]]

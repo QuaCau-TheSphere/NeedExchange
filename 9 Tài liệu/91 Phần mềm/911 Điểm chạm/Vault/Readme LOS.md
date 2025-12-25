@@ -1,3 +1,7 @@
+---
+created: 2023-04-15T10:31
+updated: 2025-12-25T10:31
+---
 Đây là vault Obsidian chứa mọi dữ liệu hoạt động của Quả Cầu. Nó dành cho những ai muốn:
 
 - Tìm gợi ý, hướng dẫn và người hỗ trợ để rèn luyện kỹ năng mới

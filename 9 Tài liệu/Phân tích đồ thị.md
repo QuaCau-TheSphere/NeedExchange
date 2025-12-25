@@ -1,3 +1,7 @@
+---
+created: 2023-10-28T14:39
+updated: 2025-12-25T10:31
+---
 # 2022-09-18
 - Đa số các nhu cầu đều xoay quanh vấn đề kinh tế, xã hội, thư giãn - giải trí
 - Chỉ có 4 nhu cầu được nhiều người chọn nhất: ăn ngon, mặc đẹp, tự do tài chính, xem phim

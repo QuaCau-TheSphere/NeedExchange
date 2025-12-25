@@ -1,3 +1,7 @@
+---
+created: 2023-06-18T00:36
+updated: 2025-12-25T10:31
+---
 Thường là những sản phẩm có quy mô công nghiệp:
 - Điện
 - Nước

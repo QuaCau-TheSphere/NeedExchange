@@ -1,4 +1,8 @@
-[[Không phải lo nghĩ về chuyện ăn uống]]
+---
+created: 2022-10-07T01:57
+updated: 2025-12-25T10:31
+---
+[[Không phải lo nghĩ về chuyện kiếm tiền để sống]]
 [[Ăn ngon]]
 [[Được thấu hiểu, được lắng nghe, thấu cảm, không phán xét]]
 [[Mua nhà]]
@@ -6,7 +10,7 @@
 [[ai cũng thích mình]]
 [[ai cũng dễ dàng tiếp cận ý là cũng không quá dễ dàng, ý là mọi người đều thoải mải, đều sẵn sàng mở lòng, đừng có mean với nhau nữa]]
 [[kiểm soát mọi thứ đặc biệt quan trọng là cuộc đời của chính mình và những người tiệm cận mình]]
-[[không cô đơn]]
+[[Không cô đơn]]
 [[học kiến trúc]]
 [[làm việc trong ngành thời trang]]
 [[Mặc đẹp]]

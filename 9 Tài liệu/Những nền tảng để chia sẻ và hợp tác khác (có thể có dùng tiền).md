@@ -1,1 +1,0 @@
-[TaskRabbit](https://www.taskrabbit.com/ )

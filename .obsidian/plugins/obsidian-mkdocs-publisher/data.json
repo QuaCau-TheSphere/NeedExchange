@@ -1,75 +1,162 @@
 {
   "github": {
-    "user": "",
-    "repo": "sdfsdf",
+    "user": "QuaCau-TheSphere",
+    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
     "branch": "main",
-    "token": "",
     "automaticallyMergePR": true,
+    "dryRun": {
+      "enable": false,
+      "folderName": "github-publisher"
+    },
+    "tokenPath": "%configDir%/plugins/%pluginID%/env",
     "api": {
       "tiersForApi": "Github Free/Pro/Team (default)",
       "hostname": ""
     },
     "workflow": {
-      "commitMessage": "[PUBLISHER] Merge",
+      "commitMessage": "[skip netlify] PUBLISHER",
       "name": ""
     },
-    "otherRepo": []
+    "otherRepo": [
+      {
+        "smartKey": "test",
+        "branch": "main",
+        "automaticallyMergePR": true,
+        "api": {
+          "tiersForApi": "Github Free/Pro/Team (default)",
+          "hostname": ""
+        },
+        "createShortcuts": false,
+        "shareKey": "share",
+        "copyLink": {
+          "links": "https://www.mara-li.fr/",
+          "removePart": []
+        },
+        "workflow": {
+          "name": "",
+          "commitMessage": "[skip netlify] PUBLISHER"
+        },
+        "verifiedRepo": false,
+        "rateLimit": 0
+      }
+    ],
+    "verifiedRepo": true,
+    "rateLimit": 4997
   },
   "upload": {
-    "behavior": "fixed",
-    "defaultName": "",
-    "rootFolder": "",
-    "yamlFolderKey": "",
+    "behavior": "obsidian",
+    "defaultName": "docs",
+    "rootFolder": "docs",
+    "yamlFolderKey": "category",
     "frontmatterTitle": {
-      "enable": false,
-      "key": "title"
+      "enable": true,
+      "key": "filename"
     },
-    "replaceTitle": [],
+    "replaceTitle": [
+      {
+        "regex": "%",
+        "replacement": "％",
+        "type": "title"
+      }
+    ],
     "replacePath": [],
     "autoclean": {
-      "enable": false,
-      "excluded": []
+      "includeAttachments": true,
+      "enable": true,
+      "excluded": [
+        "/docs/assets/.*/",
+        "docs/_data.yaml",
+        "/docs/_includes/.*/"
+      ]
     },
     "folderNote": {
-      "enable": false,
-      "rename": "index.md"
+      "enable": true,
+      "rename": "index.md",
+      "addTitle": {
+        "enable": true,
+        "key": "title"
+      }
     },
-    "metadataExtractorPath": ""
+    "metadataExtractorPath": "",
+    "subFolder": ""
   },
   "conversion": {
     "hardbreak": false,
     "dataview": true,
-    "censorText": [],
+    "censorText": [
+      {
+        "entry": "/\\!\\[.*\\]\\(https:\\/\\/.*(youtube\\.com|youtu\\.be)\\/(.*).*\\)/g",
+        "replace": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/$2\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe>",
+        "after": true,
+        "inCodeBlocks": true
+      }
+    ],
     "tags": {
-      "inline": false,
+      "inline": true,
       "exclude": [],
       "fields": []
     },
     "links": {
-      "internal": false,
+      "internal": true,
       "unshared": false,
-      "wiki": false,
-      "slugify": false
+      "wiki": true,
+      "slugify": "disable",
+      "unlink": false,
+      "relativePath": true,
+      "textPrefix": "/"
     }
   },
   "embed": {
     "attachments": true,
-    "keySendFile": [],
-    "notes": false,
-    "folder": ""
+    "overrideAttachments": [],
+    "keySendFile": [
+      "image"
+    ],
+    "notes": true,
+    "folder": "docs/attachments",
+    "convertEmbedToLinks": "keep",
+    "charConvert": "->",
+    "unHandledObsidianExt": [
+      "xml",
+      "html",
+      "css",
+      "js",
+      "ts",
+      "jsx",
+      "tsx",
+      "json",
+      "jsonc",
+      "yaml"
+    ],
+    "sendSimpleLinks": true,
+    "forcePush": true,
+    "forcePushAttachments": [],
+    "useObsidianFolder": false
   },
   "plugin": {
     "shareKey": "share",
     "fileMenu": false,
     "editorMenu": false,
-    "excludedFolder": [],
+    "excludedFolder": [
+      "Ξ Thiết lập"
+    ],
     "copyLink": {
       "enable": false,
       "links": "",
       "removePart": [],
-      "addCmd": false
+      "addCmd": false,
+      "transform": {
+        "toUri": true,
+        "slugify": "lower",
+        "applyRegex": []
+      }
     },
     "noticeError": false,
-    "displayModalRepoEditing": false
-  }
+    "displayModalRepoEditing": true,
+    "setFrontmatterKey": "Set",
+    "migrated": true,
+    "dev": true
+  },
+  "tabsID": "text-conversion",
+  "tabsId": "github-configuration"
 }
