@@ -1,22 +1,30 @@
 ---
 created: 2023-10-28T14:39
-updated: 2025-12-25T10:31
+updated: 2026-01-04T15:35
+share: true
 ---
-#vănhóa-giáodục-sángtạo 
-
-# Những người đang có nhu cầu này
+## Những người đang có nhu cầu này
 ```dataview
 List
 From "2 Thực thể" 
 Where contains(file.outlinks,[[]]) 
 ```
 
-# Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[[Có TNV lập trình]] 
+## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
+[[Có thêm TNV lập trình]]
 
-# Cách để đáp ứng nhu cầu này
+## Giả thiết 
+
+## Giải pháp gợi ý
+
+## Nhu cầu liên quan
 ```dataview
 List
 From "1 Nhu cầu" 
 Where contains(file.outlinks,[[]])
 ```
+
+## Thảo luận khác
+Người từng có nhu cầu này:: 
+Đã được giải quyết bởi:: 
+Thuộc nhu cầu phổ quát::

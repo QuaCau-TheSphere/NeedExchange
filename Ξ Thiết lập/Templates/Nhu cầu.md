@@ -12,7 +12,9 @@ Where contains(file.outlinks,[[]])
 
 ## Giả thiết 
 
-## Cách để đáp ứng nhu cầu này
+## Giải pháp gợi ý
+
+## Nhu cầu liên quan
 ```dataview
 List
 From "1 Nhu cầu" 
@@ -22,3 +24,4 @@ Where contains(file.outlinks,[[]])
 ## Thảo luận khác
 Người từng có nhu cầu này:: 
 Đã được giải quyết bởi:: 
+Thuộc nhu cầu phổ quát::

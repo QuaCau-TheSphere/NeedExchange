@@ -16,7 +16,7 @@ Where contains(file.outlinks,[[]])
 
 ## Giả thiết 
 
-## Cách để đáp ứng nhu cầu này
+## Nhu cầu liên quan
 ```dataview
 List
 From "1 Nhu cầu" 

@@ -1,7 +1,7 @@
 {
   "github": {
     "user": "QuaCau-TheSphere",
-    "repo": "CW-obsidian-quan-ly-du-an-va-cong-cu-nghi",
+    "repo": "AW-MangKetNoiNhuCau",
     "branch": "main",
     "automaticallyMergePR": true,
     "dryRun": {
@@ -37,7 +37,7 @@
           "commitMessage": "[skip netlify] PUBLISHER"
         },
         "verifiedRepo": false,
-        "rateLimit": 0
+        "rateLimit": 4996
       }
     ],
     "verifiedRepo": true,

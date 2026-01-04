@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2025-12-25T10:31
+updated: 2026-01-03T15:52
 ---
 # 2022-09-18
 - Đa số các nhu cầu đều xoay quanh vấn đề kinh tế, xã hội, thư giãn - giải trí
@@ -10,4 +10,4 @@ updated: 2025-12-25T10:31
 
 🧐Khuyến nghị: Mỗi người cần vét cạn hơn nữa những nhu cầu của mình, và cùng thảo luận xem có cách gì để đáp ứng những nhu cầu này cùng nhau hay không.
 
-![[2022-09-19.png]]
+![[Mạng lưới demo.png]]

@@ -1,6 +1,6 @@
 ---
 created: 2023-10-28T14:39
-updated: 2025-12-25T10:31
+updated: 2026-01-04T12:49
 ---
 #vănhóa-giáodục-sángtạo 
 
@@ -12,7 +12,7 @@ Where contains(file.outlinks,[[]])
 ```
 
 # Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[[Du lịch]] 
+[[Đi du lịch]] 
 # Cách để đáp ứng nhu cầu này
 ```dataview
 List

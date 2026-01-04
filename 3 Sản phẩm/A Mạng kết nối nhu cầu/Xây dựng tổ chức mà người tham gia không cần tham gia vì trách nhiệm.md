@@ -1,6 +1,6 @@
 ---
 created: 2022-10-07T01:57
-updated: 2025-12-25T10:31
+updated: 2026-01-03T11:33
 ---
 #vănhóa-giáodục-sángtạo 
 
@@ -12,7 +12,7 @@ Where contains(file.outlinks,[[]])
 ```
 
 # Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
-[[Cộng đồng phát triển]] 
+[[Có cộng đồng phát triển]] 
 [[Mọi người không còn phải lo lắng cơm áo gạo tiền nữa]]
 [[Xây dựng mạng lưới người thân, bạn bè của người có niềm tin tiêu cực]] 
 

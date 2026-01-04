@@ -14,7 +14,7 @@ Where contains(file.outlinks,[[]])
 
 ## Việc đáp ứng nhu cầu này đồng thời cũng đáp ứng những nhu cầu sau
 [[Không phải lo nghĩ về chuyện kiếm tiền để sống]] 
-## Cách để đáp ứng nhu cầu này
+## Nhu cầu liên quan
 ```dataview
 List
 From "1 Nhu cầu" 

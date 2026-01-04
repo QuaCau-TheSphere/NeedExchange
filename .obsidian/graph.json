@@ -1,9 +1,9 @@
 {
   "collapse-filter": false,
-  "search": "path:\"1 Nhu cầu\" OR path:\"2 Thực thể\"  ",
+  "search": "path:\"1 Nhu cầu\" OR path:\"2 Thực thể\"  OR path:\"3 Sản phẩm\" ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:\"3 Sản phẩm\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -32,6 +39,6 @@
   "repelStrength": 12.1741278172275,
   "linkStrength": 1,
   "linkDistance": 141,
-  "scale": 0.23890348375126708,
-  "close": true
+  "scale": 0.35684415887630716,
+  "close": false
 }

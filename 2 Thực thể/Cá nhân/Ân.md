@@ -1,9 +1,9 @@
 ---
 created: 2023-10-28T14:39
-updated: 2025-12-25T10:31
+updated: 2026-01-02T16:37
 ---
 [[Xem phim]]
-[[Không phải lo nghĩ về chuyện kiếm tiền để sống]]
+[[Tự do tài chính]]
 [[RTX 3090Ti]]
 [[Job thực tập HR xịn]]
 [[Làm nhạc]]

@@ -1,0 +1,13 @@
+---
+created: 2024-08-31T16:54
+updated: 2025-12-29T11:21
+---
+
+
+
+Cách đáp ứng nhu cầu này:: 
+Họ được gì khi tham gia:: 
+Lý do:: 
+Nhu cầu liên quan:: 
+Nhu cầu này khiến cho họ thấy dự án thế nào:: 
+Thuộc nhóm nhu cầu nào:: [[Sự toàn vẹn]], [[Sự đồng cảm tinh thần]]

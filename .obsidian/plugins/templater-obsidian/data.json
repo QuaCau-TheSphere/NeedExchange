@@ -21,6 +21,10 @@
     {
       "folder": "2 Thực thể",
       "template": "Ξ Thiết lập/Templates/Thực thể.md"
+    },
+    {
+      "folder": "3 Sản phẩm",
+      "template": "Ξ Thiết lập/Templates/Nhu cầu.md"
     }
   ],
   "enable_file_templates": false,

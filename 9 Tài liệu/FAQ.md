@@ -1,10 +1,8 @@
 ---
 created: 2023-10-28T14:39
-updated: 2025-12-25T10:31
+updated: 2026-01-04T13:14
+share: true
 ---
-g> [!Tip] Mẹo
-> Bấm <kbd>Alt + O</kbd> để hiển thị mục lục
-# FAQ
 ## Có những nhu cầu không muốn người khác biết mình có
 Chú thích: Cái đầu là nhu cầu, cái sau là thông tin nhận dạng. Ví dụ, ở ô dùng tên giả đối với người chưa dám tin, thì ✔❌ nghĩa là người khác sẽ biết nhu cầu của họ, và không biết người có nhu cầu đó là ai
 
@@ -27,16 +25,14 @@ Sau này mình sẽ có chuyên gia về bảo mật thông tin. Obsidian cũng 
 ![](https://hbr.org/resources/images/article_assets/2020/04/R2003H_FREI_TRIANGLE.png)
 
 ## Nếu ngồi với những người cùng bí với nhau thì sao có giải pháp được
-Muốn có giải pháp thì phải kiếm chuyên gia. Nếu đơn giản chỉ kể với nhau thì sẽ mất thời gian của nhau. 
+Có quan điểm cho rằng muốn có giải pháp thì phải kiếm chuyên gia, chứ nếu đơn giản chỉ kể với nhau thì sẽ mất thời gian của nhau. Chuyên gia ở đây có thể là sách, hoặc người hướng dẫn.
 
-- Chuyên gia nhỏ: sách, pdf
-- Chuyên gia thật: mentor
-
-Mình sẽ nói là nơi đây là để mọi người cùng hỗ trợ nhau giao dịch các nhu cầu, nghĩa là các nhu cầu đó sẽ được giao dịch nhanh nhất có thể, chứ không phải là ngay lập tức
-
+Họ sẽ nói gì về những việc sau?
 - Phân việc ra để cùng thu thập thông tin
 - Người không có nhu cầu không nhất thiết là người không có giải pháp
 - Biết hướng giải quyết rồi nhưng vẫn không có thời gian làm
+
+Nơi đây là để mọi người cùng hỗ trợ nhau trao đổi các nhu cầu, nghĩa là các nhu cầu đó sẽ được đáp ứng nhanh nhất có thể, chứ không phải là ngay lập tức.
 
 ## Những vấn đề lớn mà khi mổ xẻ thì sẽ thấy khác biệt lắm
 Hiện tại cứ lưu giữ những vấn đề đó 
@@ -74,7 +70,6 @@ Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nh
 
 ## Sự đóng góp cần phải là nhu cầu lớn, nếu không thì sẽ bị những nhu cầu khác lấn át
 
-
 ## Cầu nhiều hơn cung
 
 ## Cảm giác ngại ngùng khi nhờ vả và mệt mỏi nhưng không nỡ từ chối khi bị nhờ
@@ -82,13 +77,11 @@ Vậy thì mình chỉ giúp nhau những nhu cầu mà mình có thể giúp nh
 ## Các group FB sẽ giúp tốt hơn là vào đây
 
 ## Cần bao nhiêu người để nó có thể hoạt động hiệu quả
-Những câu hỏi thế này thường không trả lời được
 
-# Bộ luật
-Hoạt động:: [[Tạo bộ luật cho sàn giao dịch nhu cầu]]
 
+## Bộ luật
 Quy định 1: Phải làm rõ nhu cầu của mình thông qua trao đổi, nội quan, v.v.
-Quy định 2: Về vấn đề thống nhât trong trao đổi
+Quy định 2: Về vấn đề thống nhất trong trao đổi
 
-Hoạt động:: [[Tìm hiểu về các nỗ lực xây dựng trước đây]]
-Hoạt động:: [[Xây dựng nền tảng công nghệ kết nối nhu cầu của nhau ]]
+Hoạt động:: [[Tạo bộ quy tắc cho mạng kết nối nhu cầu]]
+
